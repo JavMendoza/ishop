@@ -1,0 +1,83 @@
+/* Categories listing */
+.categories {
+    float: left;
+    width: 190px;
+}
+
+.categories h3 {
+    color: #000000;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 11px;
+}
+
+.categories ul {
+    float: left;
+    margin-top: 6px;
+}
+
+.categories ul li {
+    float: left;
+    border-top: #636363 2px solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100%;
+    margin: 0;
+}
+
+.categories ul li a {
+    color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    background-position: right center;
+    width: 100%;
+    float: left;
+}
+
+.categories ul li a:hover,
+.categories ul li .li-selected {
+    color: #FF7900;
+}
+
+.categories ul .li-selected-tienda-left .first-a-li {
+    color: #b40404;
+    background: url(../images/flecha-selected-tienda.jpg) no-repeat;
+    background-position: right center;
+}
+
+.categories ul li ul {
+    float: left;
+    margin-top: 0px;
+    display: none;
+}
+
+.categories ul li ul li {
+    float: left;
+    padding-top: 0;
+    padding-bottom: 5px;
+    border-top: none;
+    width: 100%;
+    padding-left: 11px;
+}
+
+.categories ul li ul li a {
+    color: #aaaaaa;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    background: none !important;
+    width: 100%;
+    float: left;
+}
+
+.categories ul li .ul-second-tree li a:hover,
+.categories ul li .ul-second-tree li .a-selected-s {
+    color: #b40404;
+}
+
+.categories ul li .show-selected-ul {
+    display: block;
+}

@@ -1,0 +1,97 @@
+/*** CSM LISTADO ***/
+
+h1 {
+    text-align: center;
+}
+.listado-section h2 {
+    font-size: 20px;
+    color: #000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.listado-section {
+    margin-bottom: 50px;
+    overflow: hidden;
+}
+.btn-agregar,
+.btn-agregar {
+    float: right;
+}
+
+.save-section {
+    display: none;
+}
+.save-section.active {
+    display: block;
+}
+
+table {
+    width: 100%;
+}
+
+table td,
+table th {
+    border: thin solid #666666;
+    border-collapse: collapse;
+    padding: 0;
+}
+table th {
+    padding-left: 10px;
+}
+
+table tbody tr:nth-child(1n) {
+    background: #fff;
+}
+
+table tbody tr:nth-child(2n) {
+    background: #ffff78;
+}
+
+table thead {
+    background: #464646;
+    color: #fff;
+}
+
+table tbody tr td {
+    color: #000000;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+}
+
+table tbody tr td h3 {
+    font-size: 16px;
+    color: #000;
+}
+
+table tbody tr td a {
+    display: inline-block;
+    height: 28px;
+    overflow: hidden;
+    text-indent: -9999px;
+    width: 28px;
+}
+table td img {
+    width: 40px;
+}
+table tbody tr td .delete-button {
+    background: url("../images/delete.png") no-repeat scroll 0 0 transparent;
+}
+
+table tbody tr td .cambiar-button {
+    background: url("../images/editar.png") no-repeat scroll 0 0 transparent;
+}
+section .status {
+    display: none;
+    padding: 10px 20px;
+    font-size: 14px;
+    border: 1px solid #999;
+    margin-bottom: 20px;
+}
+section .status.active {
+    display: block;
+}

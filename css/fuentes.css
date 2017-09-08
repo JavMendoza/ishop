@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'BodoniMTBlackRegular';
+    src: url('bodoni_mt_black.eot');
+    src: url('bodoni_mt_black.eot') format('embedded-opentype'),
+         url('bodoni_mt_black.woff') format('woff'),
+         url('bodoni_mt_black.ttf') format('truetype'),
+         url('bodoni_mt_black.svg#BodoniMTBlackRegular') format('svg');
+}

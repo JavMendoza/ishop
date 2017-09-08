@@ -1,0 +1,11 @@
+{
+	"settings":
+	{
+		"xdebug":
+		{
+			"close_on_stop": true,
+			"super_globals": true,
+			"url": "http://localhost:8080/instantshop/"
+		}
+	}
+}

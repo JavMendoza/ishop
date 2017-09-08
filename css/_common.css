@@ -1,0 +1,107 @@
+html,body {
+    height: 100%;
+}
+body {
+    font: 13px/21px Arial, Helvetica, sans-serif;
+    color: #000;
+    position: relative;
+    width: 100%;
+    background-color: #FFFDE2;
+}
+a, a:hover {
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+ul li {
+	list-style: none;
+}
+
+h1,h2,h3,h4,h5 {
+    line-height: normal;
+    color: #000;
+    font-family: 'Fjalla One', sans-serif;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+h1 {font-size: 28px;}
+h2 {font-size: 20px;}
+h3 {font-size: 18px;}
+h4 {font-size: 16px;}
+h5 {font-size: 14px;}
+
+section {
+    width: auto;
+    position: relative;
+    z-index: 1;
+    padding-bottom: 20px;
+    display: none;
+}
+
+section.active {
+    display: block;
+}
+
+main.cms section > div {
+    display: none;
+}
+main.cms section > div.active {
+    display: block;
+}
+
+/*** FOOTER ***/
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background: #FDDF00;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    z-index: 10;
+    text-align: center;
+}
+
+footer p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.form-editar input {
+    width: 300px;
+}
+
+.form-editar textarea {
+    width: 300px;
+    height: 130px;
+}
+
+.form-editar div input[type="submit"] {
+    width: auto;
+}
+
+.form-editar {
+    margin-top: 140px;
+    margin-left: -240px;
+}
+.boton-white {
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 0 5px #999999;
+    color: #000000;
+    display: inline-block;
+    text-align: center;
+    padding: 5px 10px;
+    margin: 10px 0;
+    font-family: 'Fjalla One';
+    font-size: 16px;
+    text-transform: uppercase;
+}

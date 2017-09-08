@@ -1,0 +1,73 @@
+.navigation-cms {
+	width: 100%;
+    border: 1px solid #000;
+    margin: 30px 0;
+}
+.navigation-cms>li>a {
+	background: #fff;
+	border-radius: 0;
+}
+.form-cms {
+	background: #fff;
+	display: block;
+	border: #000 thin solid;
+	padding: 33px 50px;
+}
+.form-cms label {
+	display: block;
+	font-size: 14px;
+}
+.form-cms input[type="text"],
+.form-cms input[type="password"],
+.form-cms input[type="email"],
+.form-cms input[type="file"],
+.form-cms textarea,
+.form-cms select {
+	width: 100%;
+	display: block;
+	margin: 5px 0 20px;
+	min-height: 33px;
+}
+.form-cms textarea {
+	min-height: 130px;
+}
+.form-cms fieldset {
+	float: left;
+}
+.form-cms .datos-producto,
+.form-cms .datos-usuario {
+	width: 60%;
+}
+.form-cms .datos-adicionales {
+	width: 30%;
+    border: 5px solid #999;
+    padding: 20px 20px;
+    float: right;
+    font-size: 10px;
+}
+.form-cms .datos-adicionales label {
+	font-size: 13px;
+}
+.form-cms .submit {
+	clear: both;
+	text-align: center;
+}
+.form-cms input[type=submit] {
+    background: #ffe943;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+    width: auto;
+    color: #000;
+    font: 'Fjalla One';
+    padding: 8px 35px;
+    border-radius: 2px;
+    box-shadow: #999 0 0 5px;
+    margin-top: 20px;
+    border: #999 thin solid;
+}
+.obligatorios {
+	clear: both;
+	display: block;
+	padding-top: 20px;
+}

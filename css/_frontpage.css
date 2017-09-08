@@ -1,0 +1,50 @@
+/********************** Content ************************/
+
+.form-login {
+    background: none repeat scroll 0 0 #ffb471;
+    border-radius: 10px;
+    display: block;
+    left: 50%;
+    margin-left: -220px;
+    padding: 33px 50px;
+    position: absolute;
+    width: 440px;
+}
+
+.form-login div {
+    margin-bottom: 10px;
+}
+
+.form-login div label {
+    float: left;
+    width: 50px;
+    color: #000;
+    font: 'Fjalla One', Arial, Helvetica, sans-serif;
+    width: 84px;
+}
+
+.form-login div input[type=submit] {
+    background: #FDDF00;
+    text-align: center;
+    font-weight: bold;
+    margin: 0 auto;
+    display: block;
+    width: 80px;
+    color: #000;
+    font: 'Fjalla One';
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    box-shadow: #999 0 0 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    border: #333 thin solid;
+}
+
+.form-registro div label {
+    width: 164px;
+}
+
+.form-registro div input[type="submit"] {
+    width: auto;
+}

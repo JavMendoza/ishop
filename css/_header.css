@@ -1,0 +1,104 @@
+/*********************************header*************************************/
+
+.top-header {
+    background: none repeat scroll 0 0 #FDDF00;
+    width: 100%;
+    min-height: 13px;
+    margin-top: 0;
+    overflow: hidden;
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #999;
+    box-shadow: 0 0 4px #333;
+}
+
+.top-header p {
+    color: #fff;
+    font-family: 'Fjalla One';
+    font-size: 16px;
+    margin-right: 20px;
+    display: inline-block;
+}
+.top-header p.welcome{
+    color: #000;
+}
+
+.top-header p a:hover {
+    text-decoration: underline;
+}
+
+.login {
+    float: right;
+    color: #000000;
+    font-family: 'Fjalla One';
+    font-size: 16px;
+}
+
+.login:hover {
+    text-decoration: underline;
+}
+
+.registro {
+    border-right: #000 2px solid;
+    padding-right: 10px;
+    margin-right: 10px;
+}
+.header-data {
+    float: right;
+}
+header {
+    margin-bottom: 20px;
+    border-bottom: #FDDF00 5px solid;
+}
+
+header h1 {
+    margin-top: 9px;
+    float: left;
+}
+
+.logo {
+    color: #FF7900;
+    display: block;
+    font: bold 49px 'Signika Negative', sans-serif;
+    text-shadow: -4px 0 0 #B06105;
+}
+nav.main-navigation {
+    float: right;
+    margin-top: 40px;
+}
+
+nav.main-navigation > ul {
+    float: left;
+}
+
+nav.main-navigation > ul li {
+    border-top: 3px solid #FF7900;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background: none;
+    transition: background 1s;
+}
+
+nav.main-navigation > ul li a {
+    color: #000000;
+    float: left;
+    font-family: 'Fjalla One';
+    font-size: 16px;
+}
+
+nav.main-navigation > ul li:hover,
+nav.main-navigation > ul .li-selected {
+    background: #FF7900;
+}
+
+nav.main-navigation > ul li:hover a,
+nav.main-navigation > ul .li-selected a {
+    color: #fff;
+}

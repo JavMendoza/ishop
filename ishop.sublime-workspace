@@ -1,0 +1,820 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"id_",
+				"id_posteo"
+			],
+			[
+				"n",
+				"novalidate\tAttr"
+			],
+			[
+				"fecha",
+				"fecha_alta"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"D",
+				"DEFAULT"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"table",
+				"table_content"
+			],
+			[
+				"json_",
+				"json_encode〔function〕"
+			],
+			[
+				"ruta_",
+				"$ruta_temporal〔variable〕"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"_",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"id",
+				"id_categoria"
+			],
+			[
+				"Pr",
+				"Product"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"get",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"id_cat",
+				"id_cat_sexo"
+			],
+			[
+				"ea",
+				"easing"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"editar",
+				"editar_locales"
+			],
+			[
+				"Pro",
+				"ProductCategoryRow"
+			],
+			[
+				"P",
+				"ProductRow"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"remove",
+				"removeClass〔function〕"
+			],
+			[
+				"aj",
+				"ajax\t$.ajax()"
+			],
+			[
+				"fade",
+				"fadeIn\t.fadeIn()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"colorsubl",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"Package Control: Install Package"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"git branch",
+				"Git: Change Branch"
+			],
+			[
+				"git",
+				"Git: Init"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/AHORA/CLASE 21 (26-MAY) - Solucion a practicas/ej2_nuevo_tweetger/index.html",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/AHORA/CLASE 21 (26-MAY) - Solucion a practicas/ej2_nuevo_tweetger/base.sql",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/AHORA/CLASE 21 (26-MAY) - Solucion a practicas/ej1_solucion/index.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/AHORA/CLASE 21 (26-MAY) - Solucion a practicas/ej1_solucion/procesar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/AHORA/CLASE 21 (26-MAY) - Solucion a practicas/ej1_solucion/validar.js",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/AHORA/CLASE 21 (26-MAY) - Solucion a practicas/ej1_solucion/base.sql",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 16 (26-NOV) - Ajax-JSON-VHosts-URLAmigable/AJAX/index.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 16 (26-NOV) - Ajax-JSON-VHosts-URLAmigable/AJAX/lvc9meov1pr1ghpoc3vc3ptfn1.js",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 16 (26-NOV) - Ajax-JSON-VHosts-URLAmigable/AJAX/conexion.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 16 (26-NOV) - Ajax-JSON-VHosts-URLAmigable/AJAX/ver_ajax.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 16 (26-NOV) - Ajax-JSON-VHosts-URLAmigable/AJAX/ver.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 16 (26-NOV) - Ajax-JSON-VHosts-URLAmigable/AJAX/dos.html",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 16 (26-NOV) - Ajax-JSON-VHosts-URLAmigable/AJAX/uno.html",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 16 (26-NOV) - Ajax-JSON-VHosts-URLAmigable/AJAX/.htaccess",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 16 (26-NOV) - Ajax-JSON-VHosts-URLAmigable/UrlAmigable/index.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 16 (26-NOV) - Ajax-JSON-VHosts-URLAmigable/UrlAmigable/.htaccess",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 16 (26-NOV) - Ajax-JSON-VHosts-URLAmigable/.htaccess",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/attr.listado.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/attr.alta.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/attr.new.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/exportar_word.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/index.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/homepage.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/exportar_excel.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/adn.alta.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/adn.alta.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/adn.delete.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/adn.delete.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/adn.edit.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/adn.edit.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/adn.editar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/adn.editar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/adn.listado.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/adn.new.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/adn.listado.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/adn.new.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/dino.alta.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/dino.alta.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/dino.delete.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/dino.delete.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/dino.edit.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/dino.edit.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/dino.editar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/dino.editar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/dino.listado.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/dino.listado.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/dino.new.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/dino.new.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/espe.alta.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/espe.alta.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/espe.edit.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/espe.edit.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/espe.editar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/espe.editar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/espe.listado.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/espe.listado.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/espe.new.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin_sql/espe.new.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin_sql/index.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/config.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 13 (05-NOV) - Inyeccion SQL y pseudoMVC/config.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/modulos/atracciones.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 13 (05-NOV) - Inyeccion SQL y pseudoMVC/modulos/controlador_atracciones.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/modulos/controlador_atracciones.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 13 (05-NOV) - Inyeccion SQL y pseudoMVC/modulos/atracciones.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/modulos/atracciones.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/modulos/dinosaurios.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 13 (05-NOV) - Inyeccion SQL y pseudoMVC/modulos/dinosaurios.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 13 (05-NOV) - Inyeccion SQL y pseudoMVC/modulos/home.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/modulos/home.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 13 (05-NOV) - Inyeccion SQL y pseudoMVC/index.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/modulos/atracciones.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/modulos/controlador_atracciones.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/modulos/dinosaurios.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/modulos/home.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/modulos/dinosaurios.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/modulos/home.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/modulos/reserva.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/modulos/reserva.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/modulos/ver_articulo.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/modulos/ver_articulo.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/modulos/raptores.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/modulos/raptores.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 13 (05-NOV) - Inyeccion SQL y pseudoMVC/modulos/raptores.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/modulos/raptores.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 13 (05-NOV) - Inyeccion SQL y pseudoMVC/modulos/reserva.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/modulos/reserva.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 13 (05-NOV) - Inyeccion SQL y pseudoMVC/modulos/ver_articulo.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/modulos/ver_articulo.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/procesar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/index.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/botonera.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 13 (05-NOV) - Inyeccion SQL y pseudoMVC/botonera.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/botonera.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/index.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/procesar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 13 (05-NOV) - Inyeccion SQL y pseudoMVC/procesar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/00-JURASSIC_WORLD.sql",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 07 (24-SEP) - Panel de control con TEXTOS/admin/textos.listado.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/admin/textos.listado.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/admin/textos.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/admin/textos.update.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/admin/textos.save.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/admin/textos.editar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/admin/textos.borrar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/admin/textos.alta.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/admin/index.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 10 (15-OCT) - Conexion al MySQL/admin/fotos.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/procesar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/index.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/config.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/botonera.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 07 (24-SEP) - Panel de control con TEXTOS/admin/textos.save.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin/textos.save.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin/textos.update.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin/textos.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin/textos.listado.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin/textos.editar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin/textos.borrar.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin/textos.alta.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin/index.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 15 (19-NOV) - CKEditor - Estadisticas - Exportar/admin/fotos.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin/fotos.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin/textos.update.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin/textos.save.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin/textos.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin/textos.listado.php",
+		"/D/Datos/Documentos/Diseño de Sitios Web/3_Cuatrimestre/Clientes_Web/RODRIGUEZ German/2015-02 TN/00.CLASES/CLASE 14 (12-NOV) - Checkbox y SQL/admin/textos.editar.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 88.0,
+		"where_history":
+		[
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\3_Cuatrimestre\\Clientes_Web\\RODRIGUEZ German\\2015-02 TN\\00.CLASES\\CLASE 16 (26-NOV) - Ajax-JSON-VHosts-URLAmigable\\AJAX",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\3_Cuatrimestre\\Clientes_Web\\RODRIGUEZ German\\2015-02 TN\\00.CLASES\\CLASE 05 (10-SEP) - Manejo de Filesystem y Strings\\sitio_programador",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\3_Cuatrimestre\\Clientes_Web\\RODRIGUEZ German\\2015-02 TN\\00.CLASES\\CLASE 03 (27-AGO) - Arrays - GET y POST\\sitio_menu_con_array",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\3_Cuatrimestre\\Clientes_Web\\RODRIGUEZ German\\2015-02 TN\\00.CLASES\\CLASE 02 (20-AGO) - Operadores y funciones\\ejemplo_include_menu",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Sistemas_Operativos_III",
+			"C:\\xampp\\htdocs\\devworld\\www",
+			"C:\\xampp\\htdocs\\devworld\\www\\js",
+			"C:\\xampp\\htdocs\\devworld\\www\\js\\controllers",
+			"C:\\xampp\\htdocs\\devworld\\www\\js",
+			"C:\\xampp\\htdocs\\devworld\\www",
+			"C:\\xampp\\htdocs\\devworld\\www\\js",
+			"C:\\xampp\\htdocs\\devworld\\www",
+			"C:\\xampp\\htdocs\\devworld\\www\\templates",
+			"C:\\xampp\\htdocs\\dwbackend\\app\\DevWorld\\vendor",
+			"C:\\xampp\\htdocs\\dwbackend\\vendor\\composer",
+			"C:\\xampp\\htdocs\\dwbackend\\vendor\\emarref",
+			"C:\\xampp\\htdocs\\dwbackend",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Tecnologia_de_las_Comunicaciones_IV\\Gallino Santiago\\Clientes Web Mobile\\clase-13 - logout - localstorage - relacionar un Service con otro\\www\\js",
+			"C:\\xampp\\htdocs\\dwbackend",
+			"C:\\xampp\\htdocs\\dwbackend\\app",
+			"C:\\xampp\\htdocs\\dwbackend",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2016\\clase-16\\sitio",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Tecnologia_de_las_Comunicaciones_IV\\Gallino Santiago\\Clientes Web Mobile\\clase-13 - logout - localstorage - relacionar un Service con otro\\www\\js",
+			"C:\\xampp\\htdocs\\devworld\\www",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Tecnologia_de_las_Comunicaciones_IV\\Gallino Santiago\\Clientes Web Mobile\\clase-13\\www",
+			"C:\\xampp\\htdocs\\instantshop\\templates",
+			"C:\\xampp\\htdocs\\instantshop\\classes",
+			"C:\\xampp\\htdocs\\instantshop\\api",
+			"C:\\xampp\\htdocs\\instantshop\\templates",
+			"C:\\xampp\\htdocs\\instantshop\\api",
+			"C:\\xampp\\htdocs\\instantshop",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Tecnologia_de_las_Comunicaciones_IV\\Gallino Santiago\\Clientes Web Mobile",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2015",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2017",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2015",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2017",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2015",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Tecnologia_de_las_Comunicaciones_IV\\Gallino Santiago\\2015",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2017",
+			"C:\\xampp\\htdocs\\SitioWeb_Proyectronic",
+			"C:\\xampp\\htdocs\\instantshop",
+			"C:\\xampp\\htdocs\\instantshop\\cms",
+			"C:\\xampp\\htdocs\\instantshop\\css",
+			"C:\\xampp\\htdocs\\instantshop",
+			"C:\\xampp\\htdocs\\instantshop\\cms",
+			"C:\\xampp\\htdocs\\instantshop",
+			"D:\\work\\anninc-redesign-2016\\common\\js",
+			"D:\\work\\anninc-redesign-2016\\common\\components",
+			"D:\\work\\anninc-redesign-2016\\common",
+			"D:\\work\\anninc-redesign-2016\\common\\components",
+			"D:\\work\\anninc-redesign-2016\\loft\\src\\components",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2017",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2015\\2do cuatrimestre\\noche\\clase-8\\app",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2015\\2do cuatrimestre\\noche\\clase-7",
+			"C:\\xampp\\htdocs\\SitioWeb_Proyectronic",
+			"C:\\xampp\\htdocs\\ropa",
+			"C:\\xampp\\htdocs\\ropa\\js",
+			"C:\\xampp\\htdocs\\ropa",
+			"C:\\xampp\\htdocs\\demo",
+			"C:\\xampp\\htdocs\\instantshop\\api",
+			"C:\\xampp\\htdocs\\SitioWeb_Proyectronic",
+			"C:\\xampp\\htdocs\\shoppingup\\cms",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Tecnologia_de_las_Comunicaciones_IV\\Clientes Web Mobile",
+			"C:\\xampp\\htdocs\\shoppingup",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Tecnologia_de_las_Comunicaciones_IV\\Clientes Web Mobile",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2017",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Tecnologia_de_las_Comunicaciones_IV\\Clientes Web Mobile",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Tecnologia_de_las_Comunicaciones_IV\\Clientes Web Mobile\\clase-6",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Tecnologia_de_las_Comunicaciones_IV\\Clientes Web Mobile\\clase-7",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2017\\clase-6",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2017\\clase-7",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Programacion_III\\Gallino Santiago\\2017\\clase-8",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Tecnologia_de_las_Comunicaciones_IV\\Clientes Web Mobile",
+			"C:\\xampp\\htdocs\\instantshop\\cms",
+			"C:\\xampp\\htdocs\\instantshop",
+			"C:\\xampp\\htdocs\\instantshop, *html",
+			"C:\\xampp\\htdocs\\instantshop, *css",
+			"C:\\xampp\\htdocs\\instantshop",
+			"D:\\Datos\\Documentos\\Diseño de Sitios Web\\4_Cuatrimestre\\Aplicaciones para Dispositivos Moviles\\Mabel Garcia\\07_Clase_7_ADM_(2 de Mayo)\\Ejemplos",
+			"C:\\xampp\\htdocs\\shoppingup\\sidemenu",
+			"D:\\work\\anninc-redesign-2016\\lg\\src\\components",
+			"D:\\work\\anninc-redesign-2016\\mobile\\loft\\src\\components",
+			"D:\\work\\anninc-redesign-2016\\mobile\\ann\\src",
+			"D:\\work\\anninc-redesign-2016\\mobile\\ann",
+			"D:\\work\\anninc-redesign-2016\\mobile\\common\\components",
+			"D:\\work\\anninc-redesign-2016\\mobile\\loft\\src\\components",
+			"D:\\work\\anninc-redesign-2016\\mobile\\ann\\src\\components",
+			"D:\\work\\anninc-redesign-2016\\mobile\\common\\components",
+			"D:\\work\\anninc-redesign-2016\\mobile\\lg\\src\\components",
+			"D:\\work\\anninc-redesign-2016\\mobile\\common\\components",
+			"D:\\work\\anninc-redesign-2016\\mobile\\lg\\src\\components",
+			"D:\\work\\anninc-redesign-2016\\common\\components\\my-account",
+			"D:\\work\\anninc-redesign-2016\\lg\\src\\components\\my-account",
+			"C:\\xampp\\htdocs\\shoppingup\\cms\\views",
+			"C:\\xampp\\htdocs\\SitioWeb_Proyectronic\\Panel",
+			"C:\\xampp\\htdocs\\shoppingup\\cms\\views",
+			"<current file>",
+			"C:\\xampp\\htdocs\\shoppingup\\cms\\views",
+			"C:\\xampp\\htdocs\\shoppingup\\cms",
+			"C:\\xampp\\htdocs\\shoppingup\\cms\\views",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"algoFalla",
+			"ver.php",
+			"codigo",
+			"ver",
+			"php",
+			"preview",
+			"preview.txt",
+			"php",
+			"recurso",
+			"php",
+			"mail",
+			"php",
+			"config.php",
+			"php",
+			"config.php",
+			"cat",
+			"pre",
+			"chkconfig",
+			"ComentarioService",
+			"oller('ComentarioNu",
+			"ValidatorService",
+			"FormValidation",
+			"getComentarioPorPost",
+			"StorageService",
+			"Posteo",
+			"posteo",
+			"nuevoComentario",
+			"descripcion",
+			"$scope",
+			"scope",
+			"fecha_alta",
+			"nombre",
+			"errortxt",
+			"StorageService",
+			"length",
+			"posteoData",
+			"X_AUTH_TOKEN",
+			"X-Auth-Token",
+			"getByPost",
+			"traerPorPk",
+			"verApi",
+			"cuenta",
+			"CUENTA",
+			"cuenta",
+			"exists",
+			"state",
+			"response.data",
+			"getUserLogged",
+			"Auth",
+			"a",
+			"exists",
+			"getUserLogged",
+			"POSTEO",
+			"traerPorId",
+			"'id",
+			"id",
+			"getUserLogged",
+			"isLoggedIn",
+			"user",
+			"data",
+			"novedad",
+			"$stmt->fetch(PDO::FETCH_ASSOC)",
+			"getUsuario",
+			"obj",
+			"output",
+			"salida",
+			"usuario",
+			"setUsuario",
+			"setDirector",
+			"usuario",
+			"setDirector",
+			"json",
+			"getId",
+			"setId",
+			"id_posteo",
+			"getId",
+			"setId",
+			"id_usuario",
+			"pass",
+			"Pass",
+			"pass",
+			"Pass",
+			"$pass",
+			"username",
+			"sexo",
+			"username",
+			"Username",
+			"username",
+			"Username",
+			"username",
+			"Username",
+			"username",
+			"data",
+			"value",
+			"producto",
+			"usuario",
+			"Usuario",
+			"usuario",
+			"getPosteos",
+			"StorageService.get('userData')",
+			"var userData = StorageService.get('userData');",
+			"StorageService.get('userData')",
+			"StorageService.get(\"userData\")",
+			"usuario",
+			"Usuario",
+			"usuario",
+			"usuarios",
+			"UsuarioS",
+			"StorageService",
+			"Storage",
+			"storage",
+			"ro",
+			"genero",
+			"ge",
+			"genero",
+			"se",
+			"genero",
+			"st",
+			"id_usuario",
+			"usuario",
+			"user",
+			"id_usuario",
+			"postData",
+			"posteo",
+			"Posteo",
+			"posteo",
+			"Posteo",
+			"posteo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"InstantShop",
+			"initial.php",
+			"font-family: 'Raleway', sans-serif;",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 98.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 301.0
+	},
+	"pinned_build_system": "",
+	"project": "ishop.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"1000":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"1041":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"1044":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"1101":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"1134":
+				{
+					"group": 0,
+					"index": 6
+				},
+				"38":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"999":
+				{
+					"group": 0,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.936948297604,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
